@@ -1,0 +1,10 @@
+Default owner for every file in this repository.
+@alok-vibe-code
+Explicit ownership of sensitive repository configuration and policy files.
+
+/.github/** @alok-vibe-code
+/README.md @alok-vibe-code
+/CONTRIBUTING.md @alok-vibe-code
+/CODE_OF_CONDUCT.md @alok-vibe-code
+/SECURITY.md @alok-vibe-code
+/LICENSE @alok-vibe-code
